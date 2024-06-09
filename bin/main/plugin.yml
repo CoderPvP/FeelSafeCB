@@ -1,0 +1,4 @@
+name: FeelSafeCB
+version: '${version}'
+main: de.codingtt.feelsafecb.Main
+api-version: '1.20'
